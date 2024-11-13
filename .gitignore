@@ -1,0 +1,9 @@
+*.DS_Store
+*.log
+.vscode/
+__pycache__/
+*.pyc
+venv/
+test.ipynb
+test.py
+csv_files/
